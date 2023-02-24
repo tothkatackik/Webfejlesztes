@@ -1,3 +1,14 @@
 p {
     color:blue;
   }  
+/* CSS comment :OOOOOOOOOOO */
+/* body p span; specifikusabb */
+  span {
+    color:green;
+  }
+
+  #modern {
+    color:yellow;
+  }
+
+  
