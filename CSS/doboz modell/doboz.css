@@ -1,3 +1,13 @@
 body {
-    background-color: khaki;
+    background-color: aquamarine;
+}
+
+#piros {
+    background-color: crimson;
+    width: 150px;
+}
+
+#kek {
+    background-color: royalblue;
+    width: 75%;
 }
