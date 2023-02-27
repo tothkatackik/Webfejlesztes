@@ -11,4 +11,12 @@ p {
     color:yellow;
   }
 
-  
+  .golyo {
+    color:black;
+  }
+
+/* body közvetlen gyereke :3 */
+
+  body>span {
+    color:purple;
+  }
