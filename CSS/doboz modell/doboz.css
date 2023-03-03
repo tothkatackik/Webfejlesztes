@@ -81,9 +81,11 @@ body {
     height: auto !important;
     /* jaj he nekem belefért miért kell az important */
     padding: 20px 40px 60px 80px;
+    /* amúgy ha 2t adsz meg akkor nagyon menő szimmetrikus */
+    /* ha 3t akkor a harmadik lesz bottom ehehehehehe */
 }
 
 #kozepre {
-    background-color: navy;
+    background-color: midnightblue;
     margin: auto;
 }
