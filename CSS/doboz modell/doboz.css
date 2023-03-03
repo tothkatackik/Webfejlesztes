@@ -70,3 +70,14 @@ body {
     background-color: hotpink;
     margin: 10px;
 }
+
+#belsomargo {
+    background-color: crimson;
+    padding: 10px;
+}
+
+#belsovegyes {
+    background-color: royalblue;
+    height: auto !important;
+    /* jaj he nekem belefért miért kell az important */
+}
