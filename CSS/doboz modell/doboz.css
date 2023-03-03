@@ -80,4 +80,10 @@ body {
     background-color: royalblue;
     height: auto !important;
     /* jaj he nekem belefért miért kell az important */
+    padding: 20px 40px 60px 80px;
+}
+
+#kozepre {
+    background-color: navy;
+    margin: auto;
 }
