@@ -16,3 +16,18 @@ body {
     background-color: lightslategray;
     width: 50%
 }
+/* vw: view width :3 */
+#zold {
+    background-color: lightgreen;
+    width: 75vw;
+}
+
+#lila {
+    background-color: darkorchid;
+    height: 100px;
+}
+/* vh: view height :3 */
+#sarga {
+    background-color: gold;
+    height: 20vh;
+}
