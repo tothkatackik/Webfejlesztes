@@ -31,3 +31,16 @@ body {
     background-color: gold;
     height: 20vh;
 }
+
+#szegely {
+    background-color: orangered;
+}
+
+#vegyes {
+    background-color: honeydew;
+}
+/* ~ : felsodoboz tesókájai :3 */
+#felsodoboz ~ div {
+    width: 40%;
+    height: 40px;
+}
