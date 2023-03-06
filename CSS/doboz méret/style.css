@@ -1,0 +1,11 @@
+div {
+    background-color: gold;
+    width: 40%;
+    height: 40px;
+}
+
+#szegely {
+    border: 3px solid orchid;
+    padding: 10px;
+    box-sizing:border-box;
+}
