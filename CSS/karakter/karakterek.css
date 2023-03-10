@@ -6,3 +6,13 @@ body {
     font-weight:bold;
     font-style: italic;
 }
+
+#football {
+    font-size: 200%;
+    background-color: lightsteelblue;
+}
+
+#futball {
+    color: darkred;
+    font-size: 2.5rem;
+}
