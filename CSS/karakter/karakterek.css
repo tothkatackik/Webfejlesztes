@@ -1,3 +1,8 @@
 body {
-    background-color: blueviolet;
+    background-color: lightcoral;
+}
+
+#foci {
+    font-weight:bold;
+    font-style: italic;
 }
