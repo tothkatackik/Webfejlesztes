@@ -28,3 +28,7 @@ div {
 .vegyes {
     display:inline-block;
 }
+
+.nincsitt {
+    display:none;
+}
