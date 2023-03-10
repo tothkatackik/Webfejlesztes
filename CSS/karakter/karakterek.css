@@ -16,3 +16,14 @@ body {
     color: darkred;
     font-size: 2.5rem;
 }
+
+#usa {
+    font-variant: small-caps;
+}
+
+/* comicsnansansnsansnsa */
+
+#ifab {
+    color: darkblue;
+    font-family: 'Comic Sans MS'
+}
