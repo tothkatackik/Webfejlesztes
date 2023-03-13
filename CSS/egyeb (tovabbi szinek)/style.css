@@ -1,0 +1,11 @@
+div {
+    width: 40%;
+    height: 40px;
+    background-color: aquamarine;
+    border: 1px solid black;
+}
+
+#doboz1 {
+    background-color: rgb(200,50,0);
+    /* hexadecimális az jobb de mindegy */
+}
