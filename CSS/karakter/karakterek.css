@@ -25,5 +25,23 @@ body {
 
 #ifab {
     color: darkblue;
-    font-family: 'Comic Sans MS'
+    font-family: "Comic Sans MS", cursive;
+}
+
+#labsport {
+    letter-spacing: 5px;
+}
+
+p {
+    margin: 40px 0px;
+}
+
+#kozepso {
+    line-height: 1.4em;
+    text-align:justify;
+    font-family: "Comic Sans MS", cursive;
+}
+
+#fifa {
+    text-transform: capitalize;
 }
