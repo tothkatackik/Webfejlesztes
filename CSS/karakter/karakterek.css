@@ -49,5 +49,5 @@ p {
 h1 {
     font-size:20px;
     text-align: center;
-    text-decoration: underline darkgreen;
+    text-decoration: underline darkgreen wavy 1px;
 }
