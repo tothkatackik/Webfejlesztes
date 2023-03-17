@@ -1,0 +1,39 @@
+img {
+    width: 15em;
+    display: block;
+    margin: auto;
+}
+
+body {
+    background-color: indianred;
+    color: indigo;
+}
+
+div {
+    width: 80%;
+    background-color: lightcyan;
+    padding: 10px 30px;
+    margin: auto;
+}
+
+h2 {
+    border-left: 5px solid black;
+    padding-left: 5px;
+    font-variant: small-caps;
+}
+
+p {
+    text-align: justify
+}
+
+.erdekesseg {
+    font-family: 'Comic Sans MS', cursive;
+    font-style: italic;
+    border: 2px dashed indianred;
+    padding: 8px;
+}
+
+#bevezeto span {
+    text-transform: uppercase;
+}
+
