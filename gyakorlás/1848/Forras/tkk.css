@@ -1,0 +1,47 @@
+/* <link rel="stylesheet" href="tkk.css"> */
+
+body {
+    width: 80%;
+    margin: auto;
+}
+
+table, td, th {
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+p {
+    text-align: justify;
+    line-height: 1.5em;
+    text-indent: 20px;
+}
+
+h2 {
+    font-size: 30px;
+    font-style: italic;
+    font-variant: small-caps;
+    letter-spacing: 4px;
+    font-family: 'Gill Sans', 'Calibri', sans-serif;
+    color: white;
+    background-color: rgba(200,0,0, 80%);
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline dashed black;
+    text-transform: uppercase;
+}
+
+span, li {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
+
+#francia {
+    font-size: 175%;
+    color: #002395
+}
