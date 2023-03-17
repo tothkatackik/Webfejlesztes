@@ -9,3 +9,27 @@ div {
     background-color: rgb(200,50,0);
     /* hexadecimális az jobb de mindegy */
 }
+
+#doboz2 {
+    background-color: #15f41a;
+    /* ez am rgb(22,244,26) csak fnl átváltotta */
+}
+
+#doboz3 {
+    /* ALFACSATORNAAAAAAAAAAAAAAAAAAAAA */
+    background-color: rgba(4,30,200,60%);
+}
+
+#doboz4 {
+    /* árnyalat 0-360, telítettség %, fényerő % */
+    background-color: hsl(300, 80%, 80%);
+    /* ez nekem tetszik nem érdekel fnl kékje
+    #f5a3f5 */
+}
+
+#doboz5 {
+    background-color: crimson;
+    opacity: 60%;
+    color: #f24b1c
+    /* border és tartalom is átlátszóbb */
+}
