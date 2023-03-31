@@ -14,6 +14,7 @@ div {
     width: 150px;
     height: 150px;
     background-color: lightblue;
+    float: left;
 }
 
 .jobbra {
@@ -21,19 +22,26 @@ div {
     height: 300px;
     background-color: brown;
     color: white;
+    float: right;
 }
 
 h2 {
     background-color: yellow;
+    clear:both;
 }
 
 #also {
     background-color: lightcoral;
     font-size: 200%;
+    overflow: auto;
 }
 
 #also_alatti {
     background-color: lightgreen;
     padding: 10px;
     margin: 5px;
+    height: 200px;
+    overflow: auto;
+    /* normal, nowrap, pre, pre-wrap */
+    white-space: normal;
 }
