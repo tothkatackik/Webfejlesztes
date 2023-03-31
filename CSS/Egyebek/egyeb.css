@@ -7,15 +7,15 @@ div {
 }
 
 #fenti {
-
+    box-shadow: 5px 3px 3px blue;
 }
 
 #lenti {
-
+    box-shadow: 0px 0px 35px red;
 }
 
 p {
-
+    text-shadow: 0px 0px 3px crimson;
 }
 
 ul {
@@ -25,6 +25,9 @@ ul {
 li {
     background-color: lightcyan;
     padding: 5px 0px;
+    margin-bottom: 10px;
+    list-style-type: circle;
+    list-style-position: inside;
 }
 
 a {
