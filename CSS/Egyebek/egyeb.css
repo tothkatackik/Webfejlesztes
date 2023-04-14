@@ -16,10 +16,13 @@ div {
 
 p {
     text-shadow: 0px 0px 3px crimson;
+    /* text-indent: -30px;
+    margin-left: 40px; */
 }
 
 ul {
     background-color: lightcoral;
+    padding-left: 0px;
 }
 
 li {
@@ -28,6 +31,7 @@ li {
     margin-bottom: 10px;
     list-style-type: circle;
     list-style-position: inside;
+    text-indent: 15px;
 }
 
 a {
