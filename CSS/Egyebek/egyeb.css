@@ -8,6 +8,7 @@ div {
 
 #fenti {
     box-shadow: 5px 3px 3px blue;
+    cursor:not-allowed;
 }
 
 #lenti {
@@ -45,8 +46,28 @@ a {
     margin: 10px auto;
 }
 
+a:link {
+    color: green;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: red;
+    background-color: yellow;
+    border-style: dashed;
+    text-decoration: underline;
+}
+
+a:active {
+    color: purple;
+}
+
 table, td, th {
     border: 1px solid black;
+    border-collapse: collapse;
 }
 
 table {
@@ -58,8 +79,15 @@ td, th {
     background-color: white;
     height: 50px;
     width: 150px;
+    text-align: center;
+    vertical-align: middle;
 }
 
 body {
     background-color: rgba(144, 238, 144, 0.4);
+    background-image: url(fruit_salad.png), url(books.png);
+    background-size: 8%, 14%;
+    background-repeat: repeat-x, no-repeat;
+    background-position: bottom center, top right;
+    background-attachment: scroll, fixed;
 }
