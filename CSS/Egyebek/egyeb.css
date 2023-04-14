@@ -88,6 +88,6 @@ body {
     background-image: url(fruit_salad.png), url(books.png);
     background-size: 8%, 14%;
     background-repeat: repeat-x, no-repeat;
-    background-position: bottom center, top right;
+    background-position: bottom center, top 2% right 5%;
     background-attachment: scroll, fixed;
 }
